@@ -1,3 +1,3 @@
 # AoeReader
-Hign Customize Txt Format Reader.
+Hign Level Customize Txt Format Reader For PC Client.
 
