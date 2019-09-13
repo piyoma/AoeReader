@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\code">
+      <UniqueIdentifier>{b43a2e2d-bd15-41d3-9b7a-12bae57364ab}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="small.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="AoeReader.ico">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AoeReader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Reader.h">
+      <Filter>头文件\code</Filter>
+    </ClInclude>
+    <ClInclude Include="ReaderWindow.h">
+      <Filter>头文件\code</Filter>
+    </ClInclude>
+    <ClInclude Include="AppConfig.h">
+      <Filter>头文件\code</Filter>
+    </ClInclude>
+    <ClInclude Include="GuiString.h">
+      <Filter>头文件\code</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AoeReader.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Reader.cc">
+      <Filter>头文件\code</Filter>
+    </ClCompile>
+    <ClCompile Include="ReaderWindow.cc">
+      <Filter>头文件\code</Filter>
+    </ClCompile>
+    <ClCompile Include="AppConfig.cc">
+      <Filter>头文件\code</Filter>
+    </ClCompile>
+    <ClCompile Include="ReaderWindowOption.cc">
+      <Filter>头文件\code</Filter>
+    </ClCompile>
+    <ClCompile Include="ReaderWindowLogin.cc">
+      <Filter>头文件\code</Filter>
+    </ClCompile>
+    <ClCompile Include="ReaderWindowUser.cc">
+      <Filter>头文件\code</Filter>
+    </ClCompile>
+    <ClCompile Include="ReaderWindowMainOption.cc">
+      <Filter>头文件\code</Filter>
+    </ClCompile>
+    <ClCompile Include="ReaderWindowEditProfile.cc">
+      <Filter>头文件\code</Filter>
+    </ClCompile>
+    <ClCompile Include="ReaderWindowDownload.cc">
+      <Filter>头文件\code</Filter>
+    </ClCompile>
+    <ClCompile Include="ReaderWindowHistory.cc">
+      <Filter>头文件\code</Filter>
+    </ClCompile>
+    <ClCompile Include="ReaderWindowMainMenu.cc">
+      <Filter>头文件\code</Filter>
+    </ClCompile>
+    <ClCompile Include="GuiString.cpp">
+      <Filter>头文件\code</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="AoeReader.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
