@@ -1,7 +1,7 @@
 # AoeReader
-Hign Level Customize Txt Format Reader For PC Client.
-Current Version is 2017.10
-And it will be Updated at some year?
-The author is studying ue4 recently(2019). 
+Hign Level customize Text-Format-Reader For pc client.
+the latest Version is ver 2017.Oct
+and it may be Updated at some year or some century or some xxx?
+this software author is now studying ue4 recently. 
 
 
